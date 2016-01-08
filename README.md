@@ -1,4 +1,4 @@
-# instax [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Support us][gittip-image]][gittip-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
+# instax [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Support us][gittip-image]][gittip-url]
 
 
 ## Information
@@ -18,17 +18,16 @@
 </tr>
 </table>
 
+## Warning
+
+In progress: This is a conversion of https://gist.github.com/contra/d42a6668963b0c94c182 to node. Want to help out? Send me a PR!
+
 ## Usage
 
 ## Install
 
 ```
 npm install instax --save
-```
-## Example
-
-```js
-EXAMPLEHERE
 ```
 
 ## LICENSE
